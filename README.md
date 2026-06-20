@@ -6,9 +6,10 @@ This project is a Bluetooth-controlled sumo robot developed using Arduino. The r
 ## Components Used
 - Arduino Uno
 - L298N Motor Driver
-- DC Motors
+- DC gear Motors
+- HC-05 bluetooth module
 - Robot Chassis
-- Battery Pack
+- three lithuim cells
 
 ## Features
 - Bluetooth-based wireless control
